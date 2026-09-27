@@ -19,11 +19,15 @@
   "devDependencies": {
     "@faker-js/faker": "^10.6.0",
     "@playwright/test": "^1.63.0",
+    "@stryker-mutator/core": "^10.0.0",
+    "@stryker-mutator/typescript-checker": "^10.0.0",
+    "@types/k6": "^2.2.1",
     "@types/node": "^26.6.3",
     "dotenv": "^18.0.4",
     "eslint": "^10.11.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.6",
+    "k6": "^0.0.0",
     "prettier": "^3.9.9",
     "typescript": "^7.0.2"
   }
