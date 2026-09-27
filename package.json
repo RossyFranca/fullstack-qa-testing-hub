@@ -1,0 +1,30 @@
+{
+  "name": "fullstack-qa-testing-hub",
+  "version": "1.0.0",
+  "description": "Complete QA Automation Framework built with Playwright (UI &amp; REST API testing), k6 (Performance/Load testing), and Stryker Mutator (Mutation testing) using TypeScript &amp; Node.js.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossyFranca/fullstack-qa-testing-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RossyFranca/fullstack-qa-testing-hub/issues"
+  },
+  "homepage": "https://github.com/RossyFranca/fullstack-qa-testing-hub#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "dotenv": "^18.0.4",
+    "eslint": "^10.11.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.6",
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2"
+  }
+}
